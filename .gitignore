@@ -1,0 +1,11 @@
+.DS_Store
+*.log
+node_modules/
+dist/
+*~
+nbproject/private/
+build
+*.flac
+*.mp3
+*.wav
+*.ogg
